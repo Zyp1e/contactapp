@@ -81,7 +81,7 @@ public class ContactDetailActivity extends AppCompatActivity {
         // 删除按钮点击事件
         binding.btnDelete.setOnClickListener(v -> deleteContact());
     }
-
+//更改
     private void loadContact() {
         contact = getIntent().getParcelableExtra("contact");
         if (contact != null) {

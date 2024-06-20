@@ -9,7 +9,7 @@ import android.graphics.Paint;
 import android.graphics.Rect;
 
 import java.util.Random;
-
+//wjqehgiehikq
 public class Contact implements Parcelable {
     private long id;
     private String name;
